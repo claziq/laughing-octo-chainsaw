@@ -1,5 +1,5 @@
 # laughing-octo-chainsaw
-Just doing something I enjoy.
+Just doing something I enjoy doing.
 
 # Customer Churn Prediction Framework
 
