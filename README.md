@@ -1,5 +1,5 @@
 # laughing-octo-chainsaw
-just doing a personal tasks
+Just doing something I enjoy.
 
 # Customer Churn Prediction Framework
 
@@ -52,7 +52,7 @@ The selected **LightGBM** model achieved a tight performance profile on the hold
 * **False Negatives (Missed churn risks):** 120 customers
 * **False Positives (False alarms):** 27 customers
 
-> 💡 **Production Engineering Decision:** 
+> **Production Engineering Decision:** 
 > While the Soft Voting Ensemble was fully evaluated, empirical testing revealed **0% performance lift** over the standalone **LightGBM** model. Both achieved an identical accuracy of `0.921` and shared the exact same confusion matrix. 
 > 
 > To optimize for production latency, minimize server memory allocation, and keep maintenance overhead low, the **standalone LightGBM model was selected as the production champion.**
