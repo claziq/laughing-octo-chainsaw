@@ -1,6 +1,3 @@
-# laughing-octo-chainsaw
-Just doing something I enjoy doing.
-
 # Customer Churn Prediction Framework
 
 An end-to-end machine learning pipeline built to predict customer churn, optimize retention strategies, and evaluate the operational trade-offs of ensemble modeling versus standalone architectures.
